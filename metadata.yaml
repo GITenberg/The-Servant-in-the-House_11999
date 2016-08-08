@@ -1,0 +1,25 @@
+_repo: The-Servant-in-the-House_11999
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kennedy, Charles Rann
+    alias: Kennedy, C. Rann (Charles Rann)
+    birthdate: 1871
+    deathdate: 1950
+    gutenberg_agent_id: '26474'
+    url: http://www.gutenberg.org/2009/agents/26474
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11999'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American drama -- 20th century'
+- !lcc 'PS'
+- GITenberg
+title: The Servant in the House
+url: http://www.gutenberg.org/ebooks/11999
